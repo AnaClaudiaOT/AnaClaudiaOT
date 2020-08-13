@@ -5,8 +5,8 @@
 
 
 
-- 💻 Learning more about and studying: **Java, Spring, Angular**
-- 💬 Ping me about: food, fun facts, games, programming and coding
+- 💻 Learning more about and studying: **Java, MySQL, Spring Boot, Docker, Angular**
+- 💬 Ping me about: music, food, fun facts, games, programming and coding
 - 💜 Interests: 🐶 dogs, 🖱 lol, 🎮 ps4, ♨ shisha
 
 
