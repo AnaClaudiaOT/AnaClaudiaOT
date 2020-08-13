@@ -6,9 +6,9 @@
 
 
 
-💻 Learning more about and studying: Java, Spring, Angular
-💬 Ping me about: food, fun facts
-💜 Interests: 🐶 dogs, 🖱 lol, 🌫 shisha
+- 💻 Learning more about and studying: Java, Spring, Angular
+- 💬 Ping me about: food, fun facts
+- 💜 Interests: 🐶 dogs, 🖱 lol, 🌫 shisha
 
 <!--
 **AnaClaudiaOT/AnaClaudiaOT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
