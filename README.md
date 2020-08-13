@@ -6,9 +6,11 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AnaClaudiaOT&show_icons=truea&layout=compact&theme=tokyonight)
 </br>
 </br>
-</br> - 💻 Learning more about and studying: **Java, MySQL, Spring Boot, Docker, Angular**
-</br> - 💬 Ping me about: music, food, fun facts, games, programming and coding
-</br> - 💜 Interests: 🐶 dogs, 🖱 lol, 🎮 ps4, ♨ shisha    
+- 💻 Learning more about and studying: **Java, MySQL, Spring Boot, Docker, Angular**
+</br>
+- 💬 Ping me about: music, food, fun facts, games, programming and coding
+</br>
+- 💜 Interests: 🐶 dogs, 🖱 lol, 🎮 ps4, ♨ shisha    
 
 
 
