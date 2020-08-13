@@ -6,7 +6,7 @@
 
 
 
-- 💻 Learning more about and studying: Java, Spring, Angular
+- 💻 Learning more about and studying: **Java**, **Spring**, **Angular**
 - 💬 Ping me about: food, fun facts
 - 💜 Interests: 🐶 dogs, 🖱 lol, 🌫 shisha
 
