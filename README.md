@@ -7,9 +7,7 @@
 </br>
 </br>
 - 💻 Learning more about and studying: **Java, MySQL, Spring Boot, Docker, Angular**
-</br>
 - 💬 Ping me about: music, food, fun facts, games, programming and coding
-</br>
 - 💜 Interests: 🐶 dogs, 🖱 lol, 🎮 ps4, ♨ shisha    
 
 
