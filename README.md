@@ -1,4 +1,4 @@
-### Hi there 👋
+![capa_github_anaclaudia](https://hackernoon.com/images/f2px36fy.gif)
 
 <!--
 **AnaClaudiaOT/AnaClaudiaOT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
