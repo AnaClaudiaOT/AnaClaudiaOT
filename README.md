@@ -8,7 +8,7 @@
 </br>
 - 💻 Learning more about and studying: **Java, MySQL, Spring Boot, Docker, Angular**
 - 💬 Ping me about: music, food, fun facts, games, programming and coding
-- 💜 Interests: 🐶 dogs, 🖱 lol, 🎮 ps4, ♨ shisha    
+- 💜 Interests: 🐶 dogs, 🖱 lol, 🎮 ps, 🏖 landscapes 
 
 
 
